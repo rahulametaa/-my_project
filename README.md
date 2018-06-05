@@ -1,2 +1,2 @@
 # -my_project
-this is just for practice purpose
+this is just for practise purpose
