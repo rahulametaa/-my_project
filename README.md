@@ -1,2 +1,2 @@
 # -my_project
-this is just for practise purpose
+This is a interactive tic tac toe game.I used minmax algorithm to make decision by computer.
